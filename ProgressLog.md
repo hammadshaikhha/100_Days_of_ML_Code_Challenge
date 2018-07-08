@@ -14,8 +14,8 @@
 
 ## Day 2: July 8, 2018
 
-1. Setup a notebook describing non-parametric regression.
-
-2. Code the gaussian kernel regression 
+1. Code the gaussian kernel regression 
+  * Generate nonlinear data
+  * Estimate polynomial regression
 
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
