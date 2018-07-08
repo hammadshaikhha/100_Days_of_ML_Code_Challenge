@@ -7,7 +7,7 @@
    * [Andrew Ng Notes](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
   
 2. I summarized my readings into a consise note. 
-   * Link to note: Non-parametric Regression Note
+   * Link to repository with note: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
    
 3. Next step is to code non-parametric regression from scratch. 
 
@@ -18,4 +18,4 @@
 
 2. Code the gaussian kernel regression 
 
-Link to notebook: Non-parametric Regression
+Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
