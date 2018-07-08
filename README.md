@@ -1,2 +1,11 @@
-# 100_Days_of_ML_Code_Challenge
-Diary of working on data science related learning and coding everyday for 100 days.
+# Introduction
+
+This repository is a diary of my progress during the [100 Days of ML Code Challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo). The challenge involves either doing data science related coding or learning 1 hour each day. I plan two work on two major projects over the next 100 days as described below. I began this challenge on July 7, 2018 and it is currently in progress.
+
+# Project 1: Data Science from Scratch
+This project involves coding the common data science tools and ML algorithms without using the popular libraries such as scikit-learn and tensorflow. I will write detailed notebooks that will go over both the mathematics and implementation for the algorithm of interest. These notebooks will be posted on my [other repository](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj) and their links will be included in the diary here.
+
+# Project 2: Identifying Patterns in Effective Teachers
+I want to learn whether high quality teachers have certain characteristics that are unique to them. For this I will collect data from online teacher/professor student reviews and conduct text analysis to identify patterns in effective teaching. 
+
+
