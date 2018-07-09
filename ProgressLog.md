@@ -14,8 +14,20 @@
 
 ## Day 2: July 8, 2018
 
-1. Code the gaussian kernel regression 
-  * Generate nonlinear data
-  * Estimate polynomial regression
+1. Start the nonparametric regression notebook
+   * Generate nonlinear data
+   * Estimate polynomial regression
+
+Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+
+## Day 3: July 9, 2018
+
+1. Continue on nonparametric regresssion notebook
+   * Code the gaussian linear regression
+   * Illustrate underfitting and overfitting from choosing different smoothing parameter
+   
+2. The primary coding for notebook is complete, but there are next steps:
+   * I need to add text explaining nonparametric regression
+   * Need to comment the code
 
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
