@@ -31,3 +31,12 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
    * Need to comment the code
 
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+
+## Day 4: July 10, 2018
+
+1. Update nonparametric regression notebook
+   * Finish commmenting the code
+   * Add explainations for nonparametric regression
+
+Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+ 
