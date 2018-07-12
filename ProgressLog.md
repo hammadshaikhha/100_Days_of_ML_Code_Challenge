@@ -39,4 +39,16 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
    * Add explainations for nonparametric regression
 
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+
+## Day 5: July 11, 2018
+1. Learn about spline regression
+   * [Spline lecture notes](http://people.stat.sfu.ca/~cschwarz/Consulting/Trinity/Phase2/TrinityWorkshop/Workshop-handouts/TW-04-Intro-splines.pdf)
+   * [Blog introducing spline regression](https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes/)
+   
+2. Update nonparametric pdf notes
+   * Add spline regression notes
+
+2. Implement spline regression into nonparametric notebook
+   * Finish coding linear splines, need quadratic as well
  
+Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
