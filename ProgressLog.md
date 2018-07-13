@@ -52,3 +52,9 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
    * Finish coding linear splines, need quadratic as well
  
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+
+## Day 6: July 12, 2018
+1. Code spline regression
+  * Coded both linear and quadratic splines and commented code
+  
+Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
