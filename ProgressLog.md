@@ -5,6 +5,7 @@
 1. I learned about non-parametric regression using the following resources:
    * [Chris McCormik Blog](http://mccormickml.com/2014/02/26/kernel-regression/)
    * [Andrew Ng Notes](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
+   * [Anders Video Tutorial](https://www.youtube.com/watch?v=ncF7ArjJFqM)
   
 2. I summarized my readings into a consise note. 
    * Link to repository with note: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
@@ -65,3 +66,13 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
    * Wrote conclusion for notebook
 
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+
+# Day 8: July 13, 2018
+1. Finish nonparametric regression notebook
+   * Fix typos in text and updated comments
+
+2. Finish nonparametric regression notes
+   * Update text and add examples
+   
+
+Link to completed repository: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
