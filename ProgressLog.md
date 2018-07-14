@@ -55,6 +55,13 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
 
 ## Day 6: July 12, 2018
 1. Code spline regression
-  * Coded both linear and quadratic splines and commented code
+   * Coded both linear and quadratic splines and commented code
   
+Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+
+## Day 7: July 12, 2018
+1. Almost done nonparametric regression notebook
+   * Finished explaination of polyonomial spline regression
+   * Wrote conclusion for notebook
+
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
