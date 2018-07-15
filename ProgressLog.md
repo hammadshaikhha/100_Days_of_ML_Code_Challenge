@@ -60,19 +60,27 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
   
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
 
-## Day 7: July 12, 2018
+## Day 7: July 13, 2018
 1. Almost done nonparametric regression notebook
    * Finished explaination of polyonomial spline regression
    * Wrote conclusion for notebook
 
 Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
 
-# Day 8: July 13, 2018
+## Day 8: July 14, 2018
 1. Finish nonparametric regression notebook
    * Fix typos in text and updated comments
 
 2. Finish nonparametric regression notes
    * Update text and add examples
    
-
 Link to completed repository: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+
+## Day 9: July 15, 2018
+1. Polish nonparametric regression notebook
+   * Fix typos and update text
+
+2. Learn about quantile regressions
+   * [Anders Video Tutorial](https://www.youtube.com/watch?v=pAKwoz05lK4)
+   * [Sachin Blog on Deep Quantile Regression](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
+
