@@ -83,4 +83,11 @@ Link to completed repository: [Nonparametric Regression](https://github.com/hamm
 2. Learn about quantile regressions
    * [Anders Video Tutorial](https://www.youtube.com/watch?v=pAKwoz05lK4)
    * [Sachin Blog on Deep Quantile Regression](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
+   
+## Day 10: July 16, 2018
+1. Learn more about quantile regression
+   * [Quantile Regression Playlist](https://www.youtube.com/watch?v=pAKwoz05lK4&list=PLG8higEnlmAEcIvtr1Miql-f2nxsqpoEH)
+   
+2. Began making notes that can be posted as a PDF
+   * Linear regression and Conditional Expectation Function
 
