@@ -19,7 +19,7 @@
    * Generate nonlinear data
    * Estimate polynomial regression
 
-Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+Link to repository: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
 
 ## Day 3: July 9, 2018
 
@@ -31,7 +31,7 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
    * I need to add text explaining nonparametric regression
    * Need to comment the code
 
-Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+Link to repository: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
 
 ## Day 4: July 10, 2018
 
@@ -39,7 +39,7 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
    * Finish commmenting the code
    * Add explainations for nonparametric regression
 
-Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+Link to repository: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
 
 ## Day 5: July 11, 2018
 1. Learn about spline regression
@@ -52,7 +52,7 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
 2. Implement spline regression into nonparametric notebook
    * Finish coding linear splines, need quadratic as well
  
-Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+Link to repository: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
 
 ## Day 6: July 12, 2018
 1. Code spline regression
@@ -65,7 +65,7 @@ Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/M
    * Finished explaination of polyonomial spline regression
    * Wrote conclusion for notebook
 
-Link to notebook: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
+Link to repository: [Nonparametric Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Nonparametric%20Regression)
 
 ## Day 8: July 14, 2018
 1. Finish nonparametric regression notebook
@@ -90,4 +90,15 @@ Link to completed repository: [Nonparametric Regression](https://github.com/hamm
    
 2. Began making notes that can be posted as a PDF
    * Linear regression and Conditional Expectation Function
+
+## Day 11: July 17, 2018
+1. Complete notes on linear regression
+   * Post notes in new repository
+
+2. Began Linear Regression Notebook 
+   * Download FIFA statistics data from kaggle
+   * Implement CEF and linear regression
+   
+Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
+  
 
