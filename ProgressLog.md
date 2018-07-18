@@ -101,4 +101,12 @@ Link to completed repository: [Nonparametric Regression](https://github.com/hamm
    
 Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
   
+## Day 12: July 18, 2018
+1. Add text to linear regression notebook
+   * Complete introduction
+   * Explain linear in parameters
+   * Discuss CEF
+
+Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
+  
 
