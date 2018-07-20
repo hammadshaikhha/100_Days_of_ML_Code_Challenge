@@ -113,3 +113,15 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 1. Add more text to linear regression notebook
    * Description of Data and Plots
    * Discuss square loss function
+
+Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
+
+## Day 14: July 20, 2018
+1. Complete text to linear regreesion notebook
+   * Define mean and conditional mean
+   * Discuss square loss function
+   * Complete Conclusion
+   
+Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
+
+
