@@ -108,5 +108,8 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * Discuss CEF
 
 Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
-  
 
+## Day 13: July 19, 2018
+1. Add more text to linear regression notebook
+   * Description of Data and Plots
+   * Discuss square loss function
