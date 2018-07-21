@@ -124,4 +124,8 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    
 Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
 
+## Data 15: July 21, 2018
+1. Publish linear regression notebook
+   * Polish text and fix typos.
 
+Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
