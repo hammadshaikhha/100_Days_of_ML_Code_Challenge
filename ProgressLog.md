@@ -130,12 +130,19 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 
 Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/tree/master/Linear%20Regression)
 
-## Day 16: July 22, 21018
+## Day 16: July 22, 2018
 1. Learn regression model selection
-  * [Statistical learning video](https://www.youtube.com/watch?v=3T6RXmIHbJ4)
-  * [Linear model selection video](https://www.youtube.com/watch?v=91si52nk3LA)
-  * [David Madigan's Lecture](http://www.stat.columbia.edu/~madigan/W2025/notes/linear.pdf)
+   * [Statistical learning video](https://www.youtube.com/watch?v=3T6RXmIHbJ4)
+   * [Linear model selection video](https://www.youtube.com/watch?v=91si52nk3LA)
+   * [David Madigan's Lecture](http://www.stat.columbia.edu/~madigan/W2025/notes/linear.pdf)
   
 2. Plan for model selection notebook
-  * Discuss Stepwise covariate selection using adjusted Rsq and AIC
-  * Discuss penalized methods for covariate selection using ridge regression
+   * Discuss Stepwise covariate selection using adjusted Rsq and AIC
+   * Discuss penalized methods for covariate selection using ridge regression
+   
+## Day 17: July 23, 2018
+1. Learn more about model selection 
+   * [Subset selection video](https://www.youtube.com/watch?v=91si52nk3LA)
+   * [Forward selection](https://www.youtube.com/watch?v=nLpJd_iKmrE)
+   * [Backward selection](https://www.youtube.com/watch?v=NJhMSpI2Uj8)
+   * [AIC, BIC, and adj Rsq](https://www.youtube.com/watch?v=LkifE44myLc)
