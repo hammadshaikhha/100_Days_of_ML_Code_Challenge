@@ -146,3 +146,7 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * [Forward selection](https://www.youtube.com/watch?v=nLpJd_iKmrE)
    * [Backward selection](https://www.youtube.com/watch?v=NJhMSpI2Uj8)
    * [AIC, BIC, and adj Rsq](https://www.youtube.com/watch?v=LkifE44myLc)
+   
+## Day 18: July 24, 2018
+1. Start linear model selection notebook
+   * Complete introduction and organize notebook
