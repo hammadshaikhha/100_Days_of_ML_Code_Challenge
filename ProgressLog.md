@@ -150,3 +150,8 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 ## Day 18: July 24, 2018
 1. Start linear model selection notebook
    * Complete introduction and organize notebook
+   
+## Day 19: July 25, 2018
+1. Work on linear model selection notebook
+   * Complete section on forward selection with AIC
+   * Explore [New York School data](https://www.kaggle.com/passnyc/data-science-for-good) from kaggle
