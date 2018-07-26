@@ -155,3 +155,8 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 1. Work on linear model selection notebook
    * Complete section on forward selection with AIC
    * Explore [New York School data](https://www.kaggle.com/passnyc/data-science-for-good) from kaggle
+   
+## Day 20: July 26, 2018
+1. Work on linear model selection notebook
+   * Clean data and deal with missing values
+   * Program forward selection using AIC
