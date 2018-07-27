@@ -160,3 +160,7 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 1. Work on linear model selection notebook
    * Clean data and deal with missing values
    * Program forward selection using AIC
+   
+## Day 21: July 27, 2018
+1. Learn a bit more about linear model selection
+   * [Forward selection using pvalue video](https://www.youtube.com/watch?v=AdFT17sq53s)
