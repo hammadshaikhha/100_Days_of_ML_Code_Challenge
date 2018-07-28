@@ -164,3 +164,5 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 ## Day 21: July 27, 2018
 1. Learn a bit more about linear model selection
    * [Forward selection using pvalue video](https://www.youtube.com/watch?v=AdFT17sq53s)
+   * [Ridege regression for model selection](https://www.youtube.com/watch?v=cSKzqb0EKS0)
+   * [Lasso regression for model selection](https://www.youtube.com/watch?v=A5I1G1MfUmA)
