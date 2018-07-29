@@ -166,3 +166,9 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * [Forward selection using pvalue video](https://www.youtube.com/watch?v=AdFT17sq53s)
    * [Ridege regression for model selection](https://www.youtube.com/watch?v=cSKzqb0EKS0)
    * [Lasso regression for model selection](https://www.youtube.com/watch?v=A5I1G1MfUmA)
+   
+## Day 22: July 28, 2018
+1. Work on linear model selection notebook
+   * Discuss Ridge and Lasso regression
+   * Implement ridge regression
+   * Illustrate relationship between standardized coeffecients and ridge tuning parameter
