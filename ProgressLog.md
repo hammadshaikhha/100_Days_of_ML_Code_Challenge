@@ -172,3 +172,10 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * Discuss Ridge and Lasso regression
    * Implement ridge regression
    * Illustrate relationship between standardized coeffecients and ridge tuning parameter
+   
+## Day 23: July 29, 2018
+1. Work on linear model selection notebook
+   * Discuss subset selection model
+   * Implement the subset selection model
+   * Show subset selection performans better than stepwise, but is computationally expensive
+
