@@ -178,4 +178,10 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * Discuss subset selection model
    * Implement the subset selection model
    * Show subset selection performans better than stepwise, but is computationally expensive
+   
+## Day 24: July 30, 2018
+1. Work on linear model selection notebook
+   * Complete data description 
+   * Discuss standard model selection
+   * Discuss results from Lasso
 
