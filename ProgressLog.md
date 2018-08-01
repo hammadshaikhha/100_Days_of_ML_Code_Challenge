@@ -185,3 +185,7 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * Discuss standard model selection
    * Discuss results from Lasso
 
+# Day 25: July 31, 2018
+1. Work on linear model selection notebook
+   * Discuss lasso vs ridge regression
+   * Complete conclusion
