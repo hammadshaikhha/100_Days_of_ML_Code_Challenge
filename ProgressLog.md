@@ -195,3 +195,6 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * Comment code
    * Update text explainations
 
+# Day 27: August 2, 2018
+1. Read more about doing inference with lasso
+   * Add some details into notebook
