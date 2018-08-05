@@ -198,3 +198,19 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 # Day 27: August 2, 2018
 1. Read more about doing inference with lasso
    * Add some details into notebook
+   
+# Day 28: Augest 3, 2018
+1. Complete and publish model selection notebook
+   * Finishing touches and setting up repository 
+   
+# Day 29: Augest 4, 2018
+1. Find a new topic to work on
+   * Choosing artificial neural networks
+
+# Day 30: Augest 5, 2018
+1. Learn about perceptron
+   * ReLU and Logit activation
+   * [Video on Activation Functions](https://www.youtube.com/watch?v=-7scQpJT7uo)
+   
+2. Find data set for application
+   * Data set on boxing matches from kaggle
