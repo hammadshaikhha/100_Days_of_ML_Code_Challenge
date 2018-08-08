@@ -219,3 +219,7 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 1. Learn about backpropogation
    * [Backpropogation Intuition](https://medium.com/@gshashank84/backprop-intuition-703c49b54e5c)
    * [Calculus of backpropogation](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+   
+# Day 32, August 7, 2018
+1. Learn more about backpropogation
+   * [Backpropogation visuals](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
