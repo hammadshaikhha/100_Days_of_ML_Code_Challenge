@@ -223,3 +223,9 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 # Day 32, August 7, 2018
 1. Learn more about backpropogation
    * [Backpropogation visuals](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+   
+# Day 33, August 8, 2018
+1. Still learn about backpropogation
+   * [Video intuition behind backpropogation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=)
+   * [Andrew Ng Backprop Video Intuition](https://www.youtube.com/watch?v=yXcQ4B-YSjQ)
+   * [Andrew Ng Backprop Video](https://www.youtube.com/watch?v=x_Eamf8MHwU)
