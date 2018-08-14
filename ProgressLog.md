@@ -229,3 +229,8 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * [Video intuition behind backpropogation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=)
    * [Andrew Ng Backprop Video Intuition](https://www.youtube.com/watch?v=yXcQ4B-YSjQ)
    * [Andrew Ng Backprop Video](https://www.youtube.com/watch?v=x_Eamf8MHwU)
+
+# Day 34, August 9, 2019
+1. Start Neural Network Notebook
+   * Introduction
+   * Data section
