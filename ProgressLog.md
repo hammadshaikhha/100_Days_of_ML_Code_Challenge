@@ -234,3 +234,8 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 1. Start Neural Network Notebook
    * Introduction
    * Data section
+
+# Day 34, August 10, 2019
+1. Work on NN notebook
+   * Discuss activation functions
+   * Code common activation functions
