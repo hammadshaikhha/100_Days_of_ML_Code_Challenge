@@ -230,12 +230,17 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * [Andrew Ng Backprop Video Intuition](https://www.youtube.com/watch?v=yXcQ4B-YSjQ)
    * [Andrew Ng Backprop Video](https://www.youtube.com/watch?v=x_Eamf8MHwU)
 
-# Day 34, August 9, 2019
+# Day 34, August 9, 2018
 1. Start Neural Network Notebook
    * Introduction
    * Data section
 
-# Day 34, August 10, 2019
+# Day 34, August 10, 2018
 1. Work on NN notebook
    * Discuss activation functions
    * Code common activation functions
+   
+# Day 35, August 11, 2018
+1. Go over deep learning notes
+   * [Blog about backpropogation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+   * [Lecture slides about deep learning](https://docs.google.com/presentation/d/186Hdl_9I-oZaJY0V_WZuQOatj74RibQtnIM4paKh99c/edit)
