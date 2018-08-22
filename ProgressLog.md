@@ -244,3 +244,7 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
 1. Go over deep learning notes
    * [Blog about backpropogation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
    * [Lecture slides about deep learning](https://docs.google.com/presentation/d/186Hdl_9I-oZaJY0V_WZuQOatj74RibQtnIM4paKh99c/edit)
+   
+# Day 36, August 12, 2018
+1. More deel learning readings
+   * [Step by step backpropogation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
