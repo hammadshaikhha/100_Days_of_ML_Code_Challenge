@@ -246,5 +246,9 @@ Link to repository: [Linear Regression](https://github.com/hammadshaikhha/Math-o
    * [Lecture slides about deep learning](https://docs.google.com/presentation/d/186Hdl_9I-oZaJY0V_WZuQOatj74RibQtnIM4paKh99c/edit)
    
 # Day 36, August 12, 2018
-1. More deel learning readings
+1. More deep learning readings
    * [Step by step backpropogation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+   
+# Day 37, August 13, 2018
+1. [Read about text and sentiment analysis](https://towardsdatascience.com/scraping-tripadvisor-text-mining-and-sentiment-analysis-for-hotel-reviews-cc4e20aef333)
+
